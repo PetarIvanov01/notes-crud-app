@@ -6,7 +6,7 @@ A simple notes app built with **Next.js** and **MongoDB**.
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-repo/notes-app.git
+   git clone https://github.com/PetarIvanov01/notes-crud-app.git
    cd notes-app
    ```
 2. **Install deps**
